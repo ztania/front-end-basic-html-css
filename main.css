@@ -1,0 +1,25 @@
+header{
+    background-color: orange;
+  }
+nav{
+  background-color:yellow;
+}
+section{
+  background-color:purple;
+}
+
+.green{
+  background-color: green;
+}
+
+article{
+  background-color: red;
+}
+
+aside{
+  background-color: blue;
+}
+
+footer{
+  background-color:gray;
+}
